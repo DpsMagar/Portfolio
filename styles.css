@@ -1,0 +1,56 @@
+*{
+    background-color: black;
+    margin: 0;
+    color: #9C9C9C;
+}
+
+@import url('https://fonts.cdnfonts.com/css/caslon-antique');
+
+                
+/* header{
+    background-color: #2c3227; 
+} */
+nav{
+    /* font-family: casabla; */
+    height: 50px;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+    display: flex;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #2c3227; 
+
+    /* gap: 40px; */
+}
+svg{
+    width: 20px;
+    height: 20px;
+}
+ul{
+    justify-content: space-evenly;
+    display: flex;
+    list-style-type: none;
+    background-color: #2c3227; 
+}
+li{
+    margin-left: 60px;
+    font-family: 'Caslon Antique', sans-serif;
+                                                
+    background-color: #2c3227; 
+}
+.bio{
+    position: relative;
+    display: block;
+    /* background-color: pink; */
+    font-family: sans-serif;
+    margin-left:200px;
+    margin-top:150px;
+    font-size: 40px;
+    
+}
+/* .bioSection{
+    
+} */
