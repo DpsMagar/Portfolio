@@ -1,4 +1,5 @@
 *{
+    cursor: pointer;
     background-color: black;
     margin: 0;
     color: #9C9C9C;
@@ -48,9 +49,40 @@ li{
     font-family: sans-serif;
     margin-left:200px;
     margin-top:150px;
-    font-size: 40px;
+    font-size: 45px;
     
 }
-/* .bioSection{
-    
+.detail{
+    /* position: relative;*/
+    margin-left:210px;
+    margin-top: 25px;
+    line-height: 25px;
+    /* display: inline; */
+}
+button{
+    background-color: seagreen;
+    border:1px;
+    font-size: 20px;
+    color:white;
+    height: 60px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left:210px;
+}
+img{
+    height:300px;
+    width: 300px;
+    margin-left: 900px;
+    margin-bottom: 500px;
+    /* margin-top: 500px; */
+}
+.image{
+    position: relative;
+    /* margin-left: 300px;
+    margin-bottom: 300px; */
+    /* width:00px;
+    height:900px; */
+}
+/* span{
+    margin-left: 210px;
 } */
